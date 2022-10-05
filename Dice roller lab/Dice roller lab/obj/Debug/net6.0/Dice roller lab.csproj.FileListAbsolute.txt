@@ -1,0 +1,15 @@
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\bin\Debug\net6.0\Dice roller lab.exe
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\bin\Debug\net6.0\Dice roller lab.deps.json
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\bin\Debug\net6.0\Dice roller lab.runtimeconfig.json
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\bin\Debug\net6.0\Dice roller lab.dll
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\bin\Debug\net6.0\Dice roller lab.pdb
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\obj\Debug\net6.0\Dice roller lab.csproj.AssemblyReference.cache
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\obj\Debug\net6.0\Dice roller lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\obj\Debug\net6.0\Dice roller lab.AssemblyInfoInputs.cache
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\obj\Debug\net6.0\Dice roller lab.AssemblyInfo.cs
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\obj\Debug\net6.0\Dice roller lab.csproj.CoreCompileInputs.cache
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\obj\Debug\net6.0\Dice roller lab.dll
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\obj\Debug\net6.0\refint\Dice roller lab.dll
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\obj\Debug\net6.0\Dice roller lab.pdb
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\obj\Debug\net6.0\Dice roller lab.genruntimeconfig.cache
+C:\Users\alhas\source\repos\Dice roller lab\Dice roller lab\obj\Debug\net6.0\ref\Dice roller lab.dll
